@@ -25,7 +25,6 @@ Fill in the logic for the isOutbreak() method. This method should return true if
 
   <summary>Example Test Data</summary>
 
-	```java
 	Room[][] verticalTrue = new Room[][] {
 			{ new Room(false), new Room(false), new Room(false), new Room(false), new Room(false), new Room(false),
 					new Room(false), new Room(false), new Room(false) },
@@ -158,7 +157,5 @@ Fill in the logic for the isOutbreak() method. This method should return true if
 			{ new Room(true), new Room(true), new Room(true), new Room(true), new Room(false), new Room(false),
 					new Room(false), new Room(false), new Room(false) } };
 
-}
-```
-  
+
 </details>
