@@ -1,7 +1,7 @@
 # Outbreak
 Project based on recursion
 
-#Instructions
+# Instructions
 1. Given the following class:
 
 ```java
